@@ -1,1 +1,1 @@
-My journey with ALX
+My journey with ALX School
